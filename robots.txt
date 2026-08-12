@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-1gmdau.privatetalks.online/sitemap.xml
